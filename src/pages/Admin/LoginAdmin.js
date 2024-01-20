@@ -1,6 +1,6 @@
 import React from "react"
 
-export default function LoginAdmin() {
+export function LoginAdmin() {
     return(
         <div>
             <p>Login admin page</p>

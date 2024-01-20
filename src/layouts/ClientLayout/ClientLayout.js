@@ -1,6 +1,6 @@
 import React from 'react'
 import "./ClientLayout.scss"
-export default  function ClientLayout(props) {
+export function ClientLayout(props) {
     const {children} = props;
 
     return(
